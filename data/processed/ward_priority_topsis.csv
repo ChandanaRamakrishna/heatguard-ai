@@ -1,0 +1,51 @@
+Ward,Zone,Pop_Density,Elderly_Pct,Green_Cover,Water_Access,Heat_Intensity,TOPSIS_SCORE,PRIORITY_RANK,ALERT_LEVEL,SEVERITY_BAND
+Shivajinagar,East,83116.3,9.6,8.0,5.0,100.0,0.982,1,RED,extreme
+Neelasandra,East,67183.3,11.6,8.0,5.0,100.0,0.9239,2,RED,extreme
+Banashankari Temple,South,50032.4,13.7,8.8,10.5,100.0,0.8496,3,RED,extreme
+Vijaynagar,South,49420.5,13.8,9.0,11.4,100.0,0.8454,4,RED,extreme
+Mathikere,West,39430.8,15.1,13.4,25.7,98.8,0.7713,5,RED,extreme
+Rajajinagar,West,38640.7,15.2,13.9,26.8,98.1,0.7629,6,RED,extreme
+Kammanahalli,East,33804.9,15.8,16.8,33.7,93.6,0.7107,7,RED,critical
+Basavanagudi,South,30782.1,16.2,19.0,38.0,90.7,0.677,8,RED,critical
+T. Dasarahalli,Dasarahalli,29602.3,16.3,19.9,39.7,89.5,0.6636,9,RED,critical
+Lakkasandra,South,21940.3,17.3,27.0,50.7,81.0,0.5729,10,ORANGE,high
+Ulsoor,East,21363.7,17.3,27.7,51.5,80.4,0.5658,11,ORANGE,high
+Malleshwaram,West,20066.9,17.5,29.1,53.3,78.8,0.5496,12,ORANGE,high
+Domlur,East,19830.3,17.5,29.4,53.7,78.5,0.5466,13,ORANGE,high
+Hebbala,East,19643.1,17.5,29.6,53.9,78.3,0.5443,14,ORANGE,high
+Adugodi,South,18715.6,17.7,30.7,55.3,77.1,0.5325,15,ORANGE,high
+Ejipura,South,18077.6,17.7,31.5,56.2,76.3,0.5243,16,ORANGE,high
+Nagavara,East,17118.4,17.9,32.8,57.5,75.0,0.5118,17,ORANGE,high
+BTM Layout,South,16167.1,18.0,34.0,58.9,73.8,0.4994,18,ORANGE,high
+J. P. Nagar,South,15926.3,18.0,34.4,59.2,73.5,0.4962,19,ORANGE,high
+Hosakerehalli,South,15809.7,18.0,34.5,59.4,73.3,0.4946,20,ORANGE,high
+Sanjaynagar,East,15700.0,18.0,34.7,59.6,73.2,0.4932,21,ORANGE,high
+Jayanagar,South,14385.2,18.2,36.6,61.4,71.4,0.4755,22,YELLOW,moderate
+Shanthinagar,East,13491.1,18.3,37.9,62.7,70.1,0.4634,23,YELLOW,moderate
+Radhakrishna Temple,East,13441.5,18.3,38.0,62.8,70.0,0.4627,24,YELLOW,moderate
+Bommanahalli,Bommanahalli,13138.9,18.4,38.4,63.2,69.6,0.4585,25,YELLOW,moderate
+Koramangala,South,9530.7,18.8,44.4,68.4,64.2,0.4075,26,YELLOW,moderate
+Banaswadi,East,9248.0,18.8,44.9,68.8,63.7,0.4034,27,YELLOW,moderate
+C. V. Raman Nagar,East,8312.8,19.0,46.6,70.1,62.3,0.3896,28,YELLOW,moderate
+Marathahalli,Mahadevapura,7254.5,19.1,48.6,71.6,60.5,0.3738,29,YELLOW,moderate
+HBR Layout,East,6930.2,19.1,49.3,72.1,60.0,0.3689,30,YELLOW,moderate
+Vignananagar,Mahadevapura,4320.6,19.5,54.7,75.8,55.5,0.3284,31,GREEN,low
+HSR Layout,Bommanahalli,3545.7,19.6,56.4,76.9,54.1,0.3161,32,GREEN,low
+Byatarayanapura,Yelahanka,3270.8,19.6,57.0,77.3,53.6,0.3116,33,GREEN,low
+Shettyhalli,Dasarahalli,3156.0,19.6,57.3,77.5,53.3,0.3098,34,GREEN,low
+Garudacharpalya,Mahadevapura,3076.5,19.6,57.5,77.6,53.2,0.3085,35,GREEN,low
+Ramamurthynagar,Mahadevapura,2795.3,19.7,58.1,78.0,52.7,0.3039,36,GREEN,low
+Attur,Yelahanka,2366.5,19.7,59.1,78.6,51.9,0.2969,37,GREEN,low
+Vidyaranyapura,Yelahanka,2363.2,19.7,59.1,78.6,51.9,0.2968,38,GREEN,low
+Kempegowda Ward,Yelahanka,2088.4,19.7,59.8,79.0,51.3,0.2923,39,GREEN,low
+Rajarajeshwarinagar,Rajarajeshwarinagar,2051.3,19.7,59.9,79.1,51.3,0.2917,40,GREEN,low
+Hagadooru,Mahadevapura,2043.8,19.7,59.9,79.1,51.3,0.2916,41,GREEN,low
+Kadugudi,Mahadevapura,1869.1,19.8,60.3,79.3,50.9,0.2887,42,GREEN,low
+Doddanekkundi,Mahadevapura,1816.5,19.8,60.4,79.4,50.8,0.2878,43,GREEN,low
+Horamavu,Mahadevapura,1626.3,19.8,60.9,79.7,50.5,0.2847,44,GREEN,low
+Hoodi,Mahadevapura,1352.9,19.8,61.6,80.1,49.9,0.2801,45,GREEN,low
+Begur,Bommanahalli,1025.9,19.9,62.4,80.5,49.3,0.2746,46,GREEN,low
+Varthur,Mahadevapura,929.1,19.9,62.6,80.7,49.1,0.273,47,GREEN,low
+Jakkur,Yelahanka,875.0,19.9,62.8,80.8,49.0,0.2721,48,GREEN,low
+Hemmigepura,Rajarajeshwarinagar,850.3,19.9,62.8,80.8,48.9,0.2716,49,GREEN,low
+Bellandur,Mahadevapura,778.4,19.9,63.0,80.9,48.8,0.2704,50,GREEN,low
