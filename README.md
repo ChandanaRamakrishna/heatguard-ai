@@ -197,12 +197,6 @@ Originally aligned with **Microsoft Imagine Cup 2026** (Social Impact track).
 
 ---
 
-## 👤 Author
-
-**[Your Name]**
-- 📧 your.email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 [GitHub](https://github.com/yourusername)
 
 ---
 
