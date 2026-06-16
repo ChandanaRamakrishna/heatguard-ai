@@ -3,7 +3,7 @@
 > An AI-powered decision-support system for municipal corporations, disaster management authorities, and urban planners to predict heatwave risk, prioritize vulnerable wards, and simulate policy interventions.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-red?logo=streamlit)](https://streamlit.io/)
+[![Streamlit](https://heatguard-ai-aywt36zd5weddxr7xkoy6b.streamlit.app/)
 [![Open-Meteo](https://img.shields.io/badge/Weather-Open--Meteo%20API-orange)](https://open-meteo.com/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 ![HeatGuard AI](screenshot/home.png)
