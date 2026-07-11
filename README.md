@@ -21,19 +21,6 @@ HeatGuard AI combines **TOPSIS multi-criteria decision analysis**, **real-time w
 
 Built as a Imagine Cup 2026-aligned project, now developed into a full portfolio showcase.
 
----
-
-## 🗺️ Live Demo Screenshots
-
-| Home — City Command Center | Heat Alerts — 7-Day Forecast |
-|:-:|:-:|
-| ![Home](docs/screenshots/home.png) | ![Alerts](docs/screenshots/alerts.png) |
-
-| Priority Areas | AI Explanation with Counterfactuals |
-|:-:|:-:|
-| ![Priority](docs/screenshots/priority.png) | ![Explain](docs/screenshots/explain.png) |
-
----
 
 ## ✨ Key Features
 
